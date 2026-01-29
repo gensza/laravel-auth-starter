@@ -12,6 +12,6 @@ Jawaban Soal:
   
 6. <h3> 🚀 Installation Guide Frontend</h3>
     a. git clone https://github.com/gensza/vue-auth-starter.git<br>
-    b. Configure Environment (.env)<br>
+    b. Configure Environment (.env) example: VITE_API_URL=http://127.0.0.1:8000/api<br>
     c. project setup (npm install)<br>
     d. Start Development Server (npm run dev)<br>
